@@ -1,0 +1,7 @@
+java -jar jenkins.war   (if 8080 port not in use)
+java -jar jenkins.war --httpPort=8080  (usually 8080 ports gets busy)
+
+
+jenkins crendentials
+ylucky25@gmail.com
+RACHu123
