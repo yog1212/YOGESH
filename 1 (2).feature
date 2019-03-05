@@ -2,7 +2,7 @@ Feature:
 
 	
 	@TES-3
-	Scenario Outline: Login into the Mail.com1
+	Scenario Outline: Login into the Mail.com11
 		Feature: Login into the Mail.com
 		As a Valid User
 		I want to login to the mail
